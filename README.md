@@ -17,10 +17,10 @@ Soy un ingeniero de sistemas con gran interés por el mundo del testing y QA. Te
 # Fun facts/Datos curiosos
 
 * I enjoy doing crafts, especially origami and macramé.
-* I like dancing and even took dance classes for a few months.
+* I like dancing and even took dance lessons for a few months.
 * I'm more of a cat person than a dog person, although I enjoy the company of both.
 * I love board games and also have fun playing video games.
-* I'm a huge fan of The Hunger Games series.
+* I'm a huge fan of *The Hunger Games* series.
 
 ---
 
@@ -28,19 +28,4 @@ Soy un ingeniero de sistemas con gran interés por el mundo del testing y QA. Te
 * Me gusta bailar e incluso estuve unos pocos meses en clases de baile.
 * Soy más de gatos que de perros, aunque disfruto la compañía de ambos.
 * Me encantan los juegos de mesa y también me divierto jugando videojuegos.
-* Super fan de la saga de los juegos del hambre.
-
-<!--
-**jhonatantm9/jhonatantm9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Super fan de la saga de *Los juegos del hambre*.
